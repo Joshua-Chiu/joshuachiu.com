@@ -37,3 +37,20 @@
     opacity: 0;
  }
 }
+
+.pfp {
+  height: 75%;
+}
+
+.no-decoration {
+  color: white;
+  text-decoration: none;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+iconify-icon {
+  padding-right: 10px;
+}
