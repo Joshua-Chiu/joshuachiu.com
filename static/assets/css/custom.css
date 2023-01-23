@@ -39,7 +39,7 @@
 }
 
 .pfp {
-  height: 75%;
+  height: 85%;
 }
 
 .no-decoration {
@@ -53,4 +53,8 @@
 
 iconify-icon {
   padding-right: 10px;
+}
+
+.portfolio-photo {
+  width: 75%;
 }
